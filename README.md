@@ -1,0 +1,1 @@
+exercise about C language
