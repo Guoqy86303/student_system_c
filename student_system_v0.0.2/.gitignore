@@ -1,0 +1,30 @@
+# VS 解决方案缓存、配置文件夹
+.vs/
+*.suo
+*.vcxproj.user
+*.vcxproj.filters
+Browse.VC.db
+*.db-shm
+*.db-wal
+DocumentLayout*.json
+DocumentLayout*.bak
+
+# 编译输出目录（64位调试/发布）
+x64/
+Debug/
+Release/
+
+# 编译生成的二进制文件
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.res
+*.log
+*.slnx
+*.vcxproj
+# VS Code 本地配置
+.vscode/
+
+# 本地运行生成的数据文件（按需选择，不想上传就保留这行）
+*.dat
